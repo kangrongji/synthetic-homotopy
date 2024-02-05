@@ -3,8 +3,15 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
 
-Notes on synthetic homotopy theory.
-Only Chinese version so far 😩.
+**Download from [here](https://github.com/kangrongji/synthetic-homotopy/releases)**.
+
+This note explores the application of cubical type theory to lay the basics of homotopy theory in a synthetic fashion.
+It's still a work in progress...
+Currently, only available in Chinese 😩.
+
+## TODO
+
+- [ ] Finish the main parts
 
 ## License
 
