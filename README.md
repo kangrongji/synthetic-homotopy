@@ -1,5 +1,5 @@
 # A Bit of Synthetic Homotopy Theory
-## 一点综合同伦伦的讲义
+## 🤏综合同伦伦
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
 
