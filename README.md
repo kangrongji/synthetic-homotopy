@@ -7,7 +7,7 @@
 
 This note explores the application of cubical type theory to lay the basics of homotopy theory in a synthetic fashion.
 It's still a work in progress...
-Currently, only available in Chinese.
+Currently, only available in 简体中文.
 
 ## TODO
 
